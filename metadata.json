@@ -1,0 +1,8 @@
+{
+  "name": "UBND Xã Tân An - Quản Lý Văn Bản & Điều Hành",
+  "description": "Hệ thống quản lý văn bản, điều hành công việc và theo dõi tiến độ xử lý hồ sơ hành chính điện tử UBND Xã Tân An.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
